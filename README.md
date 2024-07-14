@@ -14,7 +14,7 @@ Follow these steps to set up the project locally:
 
 1. **Clone the repository:**
     ```sh
-    git clone https://github.com/yourusername/rag-application-aws-bedrock.git
+    git clone https://github.com/imyasars/AWS_bedrock.git
     cd rag-application-aws-bedrock
     ```
 
