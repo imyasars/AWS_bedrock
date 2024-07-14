@@ -1,6 +1,3 @@
-Great! Here is a template for your README file based on the project name. You can fill in the specific details for each section:
-
----
 
 # RAG Application using AWS Bedrock
 
