@@ -77,6 +77,3 @@ For questions or support, please reach out to [yasarsona@gmail.com]
 - Python
 - Streamlit
 
----
-
-Feel free to modify and expand this template as needed.
