@@ -1,1 +1,1 @@
-RAG Application using AWS bedrock
+# RAG Application using AWS bedrock and docker
